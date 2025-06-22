@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Reshma Ranjan</h1>
 <h3 align="center">A passionate Full Stack Developer</></h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=01chandan&label=Profile%20views&color=0e75b6&style=flat" alt="01chandan" /> </p>
+<p align="left"> <img src="https://reshmapublicfolder.s3.ap-south-1.amazonaws.com/Github/b1.gif" alt="reshmaranjan010102" /> </p>
 
 - 💬 Ask me about **Anything**
 
