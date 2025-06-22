@@ -16,7 +16,7 @@
       </p>
     </td>
     <td>
-      <img src="https://reshmapublicfolder.s3.ap-south-1.amazonaws.com/Github/b1.gif" alt="Coding" width="400"/>
+      <img src="./b1.gif" alt="Coding" width="400"/>
     </td>
   </tr>
 </table>
