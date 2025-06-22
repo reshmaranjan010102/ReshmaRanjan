@@ -2,7 +2,6 @@
 <h3 align="left">A passionate Full Stack Developer</h3>
   
 <img align="right" alt="Coding" width="400" src="./b1.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=reshmaranjan010102&label=Profile%20views&color=0e75b6&style=flat" alt="reshmaranjan010102" /> </p>
 <p align="left">
 I'm a dynamic web developer and programmer with a flair for creativity. My passion lies in seamlessly blending technology with creativity to deliver engaging digital experiences.
 </p>
